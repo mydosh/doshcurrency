@@ -19,7 +19,7 @@ The advent of Dosh Cryptocurrency is a coherent outcome to the prerequisite for 
 
   Our vision is to create: An Equitable Decentralized online Cryptocurrency featured with fast and secure means of direct payment for individuals who believe in Freedom, independence, Fairness and open Uncensored world.
 
-           ### Join our Dosh community
+            Join our Dosh community
 
 
 ### Egalitarian Proof of work
@@ -91,7 +91,7 @@ egalitarian proof of work
 
   A ring signature is a type of digital signature that can be performed by any member of a group of users that each have keys. Therefore, a message signed with a ring signature is endorsed by someone in a particular group of people. One of the security properties of a ring signature is that it should be computationally infeasible to determine which of the group members' keys was used to produce the signature.
 
-####  Everyone is welcome to join our network community and start mining Dosh straight away.
+       Everyone is welcome to join our network community and start mining Dosh straight away.
  
 ###  We believe in Freedom, independence, Fairness and open Uncensored world.
  
