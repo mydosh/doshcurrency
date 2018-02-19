@@ -45,7 +45,7 @@ Dosh protocol is immune to hacks and the Data is protected through the implement
  ∙ Mining: GPU's and CPU.
 
 
-       Features                                      
+      Features                                      
 
 •	True anonymity and data protection.
 •	Untraceable distributed payments employing ring signature.
