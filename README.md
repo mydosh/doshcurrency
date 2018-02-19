@@ -4,7 +4,7 @@
 </p>
 
 
-  ## Welcome to Dosh Privacy Cryptocurrency
+# Welcome to Dosh Privacy Cryptocurrency
 
 
 ### Open Source Decentralized Blockchain
