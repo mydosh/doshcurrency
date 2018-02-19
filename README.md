@@ -1,6 +1,6 @@
 
 <p align="center">
-  <img src="dosh-icon.png" width="200" height="240">
+  <img src="dosh-icon.png" width="240" height="240">
 </p>
 
 
@@ -22,6 +22,7 @@ The advent of Dosh Cryptocurrency is a coherent outcome to the prerequisite for 
   Join our growing Dosh community
   
       Principles
+
 
 ### Egalitarian Proof of work
 
