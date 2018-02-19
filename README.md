@@ -6,6 +6,7 @@
 
 ## Welcome to Dosh Privacy Cryptocurrency
 
+
 ### Open Source Decentralized Blockchain
 
 The advent of Dosh Cryptocurrency is a coherent outcome to the prerequisite for more decentralized untraceable digital cash for everyday use in money transactions. 
@@ -18,7 +19,7 @@ The advent of Dosh Cryptocurrency is a coherent outcome to the prerequisite for 
 
   Our vision is to create: An Equitable Decentralized online Cryptocurrency featured with fast and secure means of direct payment for individuals who believe in Freedom, independence, Fairness and open Uncensored world.
 
-### Join our Dosh community
+           ### Join our Dosh community
 
 
 ### Egalitarian Proof of work
