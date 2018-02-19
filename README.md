@@ -6,10 +6,6 @@
 
 ## Welcome to Dosh Privacy Cryptocurrency
 
-You can use the [editor on GitHub](https://github.com/mydosh/doshcurrency/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
 ### Open Source Decentralized Blockchain
 
 The advent of Dosh Cryptocurrency is a coherent outcome to the prerequisite for more decentralized untraceable digital cash for everyday use in money transactions. 
@@ -22,7 +18,6 @@ The advent of Dosh Cryptocurrency is a coherent outcome to the prerequisite for 
 
   Our vision is to create: An Equitable Decentralized online Cryptocurrency featured with fast and secure means of direct payment for individuals who believe in Freedom, independence, Fairness and open Uncensored world.
 
-```markdown
 Join our Dosh community
 
 # Egalitarian Proof of work
@@ -38,8 +33,7 @@ Most important aspect of our Objectives is to make All transactions on the Dosh 
 ### Secure & Fast Confirmation
 Dosh protocol is immune to hacks and the Data is protected through the implementation of CryptoNight Algorithm Technology which is impossible to crack. All transactions on the Blockchain are secured without the risk of loss of any Data and Transaction is fast and the conformation time of each Block is being mined averaged to 120 seconds (2 minutes). our road-map aims to minimize transaction time even to a few seconds with optimum security.
 
-- Bulleted
--  Info
+     Info
 
  ∙ Date of Launch: 15/02/2018
  ∙ Total number of coins: 18.4 Million Dosh.
@@ -50,8 +44,8 @@ Dosh protocol is immune to hacks and the Data is protected through the implement
  ∙ Supported Platforms: Linux, Windows.
  ∙ Mining: GPU's and CPU.
 
-1. Numbered
-2. Features                                      
+
+      Features                                      
 
 •	True anonymity and data protection.
 •	Untraceable distributed payments employing ring signature.
@@ -63,14 +57,6 @@ Dosh protocol is immune to hacks and the Data is protected through the implement
 •	POW mechanism as a voting system for users.
 •	Egalitarian proof of work
 
-
-**Bold** and _Italic_ and `Code` text
-
-<p align="center">
-  <img src="dosh-icon.png" width="220" height="240">
-</p>
-
-```
 ### Dosh Network
 
   The Transactions are modeled for PEER to PEER Global distributed network payment system to allow every individual freely send and receive Dosh cryptocurrency directly and settle all transactions without the need of a third party involvement or any other financial coordination. 
@@ -82,8 +68,6 @@ Mining
 Open source
 
   Dosh CryptoCurrency is built on an Open source Software. This would permit everyone to participate in future network development. check our Github link and join our community. 
-
-
 
 ### What is cryptonote?
  
