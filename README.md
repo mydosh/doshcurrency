@@ -20,12 +20,13 @@ The advent of Dosh Cryptocurrency is a coherent outcome to the prerequisite for 
 
 ### Join our Dosh community
 
-## Egalitarian Proof of work
+
+### Egalitarian Proof of work
 
 Dosh is based on Egalitarian proof of work that acts as a voting system, Thus is Fairly distributed per vote without any special privileges and everyone is invited to join our network and start to mine and vote to secure all transactions on the Blockchain. No coin being premined , instamined or any additional imposed interest percentage on coin mining.
 
 
-## Anonamyous Transactions
+### Anonamyous Transactions
 
 Most important aspect of our Objectives is to make All transactions on the Dosh Blockchain: anonymous and untraceable. CryptoNight scheme provides all participants with fully anonymous payment system through adopting Ring Signature Technology to render all payments executions indistinguishable and untraceable.
 
@@ -77,7 +78,7 @@ Dosh protocol is immune to hacks and the Data is protected through the implement
   Two of the main features of CryptoNote are ring signatures that mask sender identities by mixing and one-time keys that make transactions unlinkable. Their combined effect gives a high degree of anonymity without any extra effort on the part of the user.
 egalitarian proof of work
 
-## Egalitarian proof of work
+## Proof of work
 
   DOSH implement CryptoNote proof of work mechanism which is a voting system where users can vote for the right order of transactions, new features in the protocol and honest money supply distribution. It is important that during the voting process every participant have equal voting rights. CryptoNote coins use the CryptoNight algorithm to run DOSH blockchain and secure it's network. CryptoNight is a proof-of-work algorithm that mixes graphics processing unit (GPU) and central processing unit (CPU) mining to create a system resistant to both application-specific integrated circuits (ASICs) and fast memory-on-chip devices. This is designed to create a more uniform distribution of coins through the currency's life.
 
