@@ -33,7 +33,7 @@ Most important aspect of our Objectives is to make All transactions on the Dosh 
 ### Secure & Fast Confirmation
 Dosh protocol is immune to hacks and the Data is protected through the implementation of CryptoNight Algorithm Technology which is impossible to crack. All transactions on the Blockchain are secured without the risk of loss of any Data and Transaction is fast and the conformation time of each Block is being mined averaged to 120 seconds (2 minutes). our road-map aims to minimize transaction time even to a few seconds with optimum security.
 
-     # Info
+      Info
 
  ∙ Date of Launch: 15/02/2018
  ∙ Total number of coins: 18.4 Million Dosh.
@@ -45,7 +45,7 @@ Dosh protocol is immune to hacks and the Data is protected through the implement
  ∙ Mining: GPU's and CPU.
 
 
-      # Features                                      
+       Features                                      
 
 •	True anonymity and data protection.
 •	Untraceable distributed payments employing ring signature.
@@ -57,19 +57,19 @@ Dosh protocol is immune to hacks and the Data is protected through the implement
 •	POW mechanism as a voting system for users.
 •	Egalitarian proof of work
 
-### Dosh Network
+## Dosh Network
 
   The Transactions are modeled for PEER to PEER Global distributed network payment system to allow every individual freely send and receive Dosh cryptocurrency directly and settle all transactions without the need of a third party involvement or any other financial coordination. 
 
-# Mining
+## Mining
 
   Anyone can mine Dosh using consumer CPU or GPU. Dosh Cryptcurrency mining is simple and based on CryptoNight Alogorithm Thus it's ASIC resistant and from your PC you can start Dosh mining straight away.  
 
-# Open source
+## Open source
 
   Dosh CryptoCurrency is built on an Open source Software. This would permit everyone to participate in future network development. check our Github link and join our community. 
 
-### What is cryptonote?
+## What is cryptonote?
  
   CryptoNote is an application layer protocol that powers DOSH decentralized privacy oriented digital currency.
  Transactions executed by CryptoNote Algorithm cannot be followed through the blockchain in a way that reveals who sent or received the coins. The approximate amount of a transaction can be known, but the origin, destination, or actual amount cannot be learned. The only information available is that the actual amount was lower than the displayed amount. The only people with access to the whole set of data about a transaction are the sender or receiver of the transaction and the person who possesses one or both private keys.
