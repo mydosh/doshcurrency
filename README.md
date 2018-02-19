@@ -33,7 +33,7 @@ Most important aspect of our Objectives is to make All transactions on the Dosh 
 ### Secure & Fast Confirmation
 Dosh protocol is immune to hacks and the Data is protected through the implementation of CryptoNight Algorithm Technology which is impossible to crack. All transactions on the Blockchain are secured without the risk of loss of any Data and Transaction is fast and the conformation time of each Block is being mined averaged to 120 seconds (2 minutes). our road-map aims to minimize transaction time even to a few seconds with optimum security.
 
-     Info
+     # Info
 
  ∙ Date of Launch: 15/02/2018
  ∙ Total number of coins: 18.4 Million Dosh.
@@ -45,7 +45,7 @@ Dosh protocol is immune to hacks and the Data is protected through the implement
  ∙ Mining: GPU's and CPU.
 
 
-      Features                                      
+      # Features                                      
 
 •	True anonymity and data protection.
 •	Untraceable distributed payments employing ring signature.
@@ -61,11 +61,11 @@ Dosh protocol is immune to hacks and the Data is protected through the implement
 
   The Transactions are modeled for PEER to PEER Global distributed network payment system to allow every individual freely send and receive Dosh cryptocurrency directly and settle all transactions without the need of a third party involvement or any other financial coordination. 
 
-Mining
+# Mining
 
   Anyone can mine Dosh using consumer CPU or GPU. Dosh Cryptcurrency mining is simple and based on CryptoNight Alogorithm Thus it's ASIC resistant and from your PC you can start Dosh mining straight away.  
 
-Open source
+# Open source
 
   Dosh CryptoCurrency is built on an Open source Software. This would permit everyone to participate in future network development. check our Github link and join our community. 
 
@@ -77,15 +77,15 @@ Open source
   Two of the main features of CryptoNote are ring signatures that mask sender identities by mixing and one-time keys that make transactions unlinkable. Their combined effect gives a high degree of anonymity without any extra effort on the part of the user.
 egalitarian proof of work
 
-Egalitarian proof of work
+## Egalitarian proof of work
 
   DOSH implement CryptoNote proof of work mechanism which is a voting system where users can vote for the right order of transactions, new features in the protocol and honest money supply distribution. It is important that during the voting process every participant have equal voting rights. CryptoNote coins use the CryptoNight algorithm to run DOSH blockchain and secure it's network. CryptoNight is a proof-of-work algorithm that mixes graphics processing unit (GPU) and central processing unit (CPU) mining to create a system resistant to both application-specific integrated circuits (ASICs) and fast memory-on-chip devices. This is designed to create a more uniform distribution of coins through the currency's life.
 
-Blockchain analysis resistance
+## Blockchain analysis resistance
 
   The ability of tracing the money flow, identify the owners of the coins, determine wallet balances. The ability to make such analysis is due to the fact that all the transfers between addresses are transparent: every input in a transaction refers to a unique output. Moreover, users often re-use their old addresses, receiving and sending coins from them many times, which simplifies the analyst’s work. It happens unintentionally: if you have a public address (for example, for donations), you are sure to use this address in many inputs and transactions.
 
-Ring signature
+## Ring signature
 
   A ring signature is a type of digital signature that can be performed by any member of a group of users that each have keys. Therefore, a message signed with a ring signature is endorsed by someone in a particular group of people. One of the security properties of a ring signature is that it should be computationally infeasible to determine which of the group members' keys was used to produce the signature.
 
