@@ -4,7 +4,7 @@
 </p>
 
 
-## Welcome to Dosh Privacy Cryptocurrency
+  ## Welcome to Dosh Privacy Cryptocurrency
 
 
 ### Open Source Decentralized Blockchain
@@ -37,27 +37,27 @@ Dosh protocol is immune to hacks and the Data is protected through the implement
 
       Info
 
- ∙ Date of Launch: 15/02/2018
- ∙ Total number of coins: 18.4 Million Dosh.
- ∙ Consensus Mechanism: Proof - of - work.
- ∙ Hashing Algorithm: CryptoNight.
- ∙ Forked from: Bytecoin.
- ∙ Block time conformation: 120 Seconds (2 Minutes).
- ∙ Supported Platforms: Linux, Windows.
- ∙ Mining: GPU's and CPU.
+    ∙ Date of Launch: 15/02/2018
+    ∙ Total number of coins: 18.4 Million Dosh.
+    ∙ Consensus Mechanism: Proof - of - work.
+    ∙ Hashing Algorithm: CryptoNight.
+    ∙ Forked from: Bytecoin.
+    ∙ Block time conformation: 120 Seconds (2 Minutes).
+    ∙ Supported Platforms: Linux, Windows.
+    ∙ Mining: GPU's and CPU.
 
 
       Features                                      
 
-•	True anonymity and data protection.
-•	Untraceable distributed payments employing ring signature.
-•	Unlinkable transactions with random data transfer by the sender.
-•	Double spending protection.
-•	Adaptive Parameters. 
-•	Blockchain analysis resistant.
-•	Only CPU-mining & ASIC-resistant.
-•	POW mechanism as a voting system for users.
-•	Egalitarian proof of work
+    •	True anonymity and data protection.
+    •	Untraceable distributed payments employing ring signature.
+    •	Unlinkable transactions with random data transfer by the sender.
+    •	Double spending protection.
+    •	Adaptive Parameters. 
+    •	Blockchain analysis resistant.
+    •	Only CPU-mining & ASIC-resistant.
+    •	POW mechanism as a voting system for users.
+    •	Egalitarian proof of work
 
 ## Dosh Network
 
@@ -91,7 +91,7 @@ egalitarian proof of work
 
   A ring signature is a type of digital signature that can be performed by any member of a group of users that each have keys. Therefore, a message signed with a ring signature is endorsed by someone in a particular group of people. One of the security properties of a ring signature is that it should be computationally infeasible to determine which of the group members' keys was used to produce the signature.
 
-       Everyone is welcome to join our network community and start mining Dosh straight away.
+       Everyone is welcome to join our network community.
  
 ###  We believe in Freedom, independence, Fairness and open Uncensored world.
  
