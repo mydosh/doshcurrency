@@ -21,7 +21,7 @@ The advent of Dosh Cryptocurrency is a coherent outcome to the prerequisite for 
 
   Join our growing Dosh community
   
-  *_Principles_*
+   *Principles*
 
 
 ### Egalitarian Proof of work
@@ -116,7 +116,7 @@ egalitarian proof of work
 
   Everyone is welcome to join our network community.
  
- ## *We believe in Freedom, independence, Fairness and open Uncensored world*
+  *##We believe in Freedom, independence, Fairness and open Uncensored world*
  
  
  <p align="center">
