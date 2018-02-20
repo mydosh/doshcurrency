@@ -116,7 +116,6 @@ egalitarian proof of work
 
   Everyone is welcome to join our network community.
  
-  *We believe in Freedom, independence, Fairness and open Uncensored world*
  
  
  <p align="center">
