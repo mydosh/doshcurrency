@@ -98,8 +98,8 @@ egalitarian proof of work
 ###  We believe in Freedom, independence, Fairness and open Uncensored world.
  
  
-#DOSH is your private Currency <p align="center">
+ <p align="center">
   <img src="dosh-icon.png" width="220" height="240">
 </p>
 
-
+# DOSH is your private Currency
