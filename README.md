@@ -107,7 +107,7 @@ egalitarian proof of work
     Millidosh	10^-3	0.001
     Centidosh	10^-2	0.01
     Decidosh	10^-1	0.1
-    Dosh	10^0	1
+    Dosh	    10^0	 1
     Decadosh	10^1	10
     Hectodosh	10^2	100
     Kilodosh	10^3	1,000
