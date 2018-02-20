@@ -97,6 +97,23 @@ egalitarian proof of work
 
   A ring signature is a type of digital signature that can be performed by any member of a group of users that each have keys. Therefore, a message signed with a ring signature is endorsed by someone in a particular group of people. One of the security properties of a ring signature is that it should be computationally infeasible to determine which of the group members' keys was used to produce the signature.
 
+
+### Dosh Denominations
+    Name	  Base 10	   Amount
+    
+    bob	      10^-12	0.000000000001
+    Nanodosh	10^-9	0.000000001
+    Microdosh	10^-6	0.000001
+    Millidosh	10^-3	0.001
+    Centidosh	10^-2	0.01
+    Decidosh	10^-1	0.1
+    Dosh	10^0	1
+    Decadosh	10^1	10
+    Hectodosh	10^2	100
+    Kilodosh	10^3	1,000
+    megadosh	10^6	1,000,000
+
+
        Everyone is welcome to join our network community.
  
 ###  We believe in Freedom, independence, Fairness and open Uncensored world.
