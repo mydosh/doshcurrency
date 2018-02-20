@@ -21,7 +21,7 @@ The advent of Dosh Cryptocurrency is a coherent outcome to the prerequisite for 
 
   Join our growing Dosh community
   
-  #### Principles
+  Principles
 
 
 ### Egalitarian Proof of work
@@ -114,9 +114,9 @@ egalitarian proof of work
     megadosh	10^6	1,000,000
 
 
-  #### Everyone is welcome to join our network community.
+  Everyone is welcome to join our network community.
  
-###  We believe in Freedom, independence, Fairness and open Uncensored world.
+ ## We believe in Freedom, independence, Fairness and open Uncensored world.
  
  
  <p align="center">
