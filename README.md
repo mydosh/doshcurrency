@@ -21,7 +21,7 @@ The advent of Dosh Cryptocurrency is a coherent outcome to the prerequisite for 
 
   Join our growing Dosh community
   
-  Principles
+  *_Principles_*
 
 
 ### Egalitarian Proof of work
@@ -37,7 +37,7 @@ Most important aspect of our Objectives is to make All transactions on the Dosh 
 ### Secure & Fast Confirmation
 Dosh protocol is immune to hacks and the Data is protected through the implementation of CryptoNight Algorithm Technology which is impossible to crack. All transactions on the Blockchain are secured without the risk of loss of any Data and Transaction is fast and the conformation time of each Block is being mined averaged to 120 seconds (2 minutes). our road-map aims to minimize transaction time even to a few seconds with optimum security.
 
-      Info
+       Info
 
     ∙ Date of Launch: 15/02/2018
     ∙ Total number of coins: 18.4 Million Dosh.
@@ -49,7 +49,7 @@ Dosh protocol is immune to hacks and the Data is protected through the implement
     ∙ Mining: GPU's and CPU.
 
 
-      Features                                      
+       Features                                      
 
     •	True anonymity and data protection.
     •	Untraceable distributed payments employing ring signature.
@@ -116,7 +116,7 @@ egalitarian proof of work
 
   Everyone is welcome to join our network community.
  
- ## We believe in Freedom, independence, Fairness and open Uncensored world.
+ ## *We believe in Freedom, independence, Fairness and open Uncensored world*
  
  
  <p align="center">
