@@ -65,13 +65,13 @@ Dosh protocol is immune to hacks and the Data is protected through the implement
       
       Name	      Base 10	    Amount
       
-     • bob       10^-12   0.000000000001
-     • Nanodosh   10^-9   0.000000001
+     • bob   10^-12   0.000000000001
+     • Mindy 10^-9   0.000000001
      • Microdosh 10^-6   0.000001
      • Millidosh 10^-3   0.001
      • Centidosh 10^-2   0.01
-     • Decidosh   10^-1   0.1
-     • Dosh10^0 1
+     • Decidosh  10^-1   0.1
+     • Dosh      10^0 1
      • Decadosh	   10^1	     10
      • Hectodosh	 10^2	     100
      • Kilodosh	   10^3	     1,000
