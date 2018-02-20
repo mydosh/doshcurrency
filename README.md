@@ -72,10 +72,10 @@ Dosh protocol is immune to hacks and the Data is protected through the implement
      • Centidosh	 10^-2	   0.01
      • Decidosh	   10^-1	   0.1
      • Dosh	10^0	 1
-     • Decadosh	   10^1	   10
-     • Hectodosh	 10^2	   100
-     • Kilodosh	   10^3	   1,000
-     • megadosh	   10^6	   1,000,000
+     • Decadosh	   10^1	     10
+     • Hectodosh	 10^2	     100
+     • Kilodosh	   10^3	     1,000
+     • megadosh	   10^6	     1,000,000
 
 
 
