@@ -26,7 +26,7 @@ The advent of Dosh Cryptocurrency is a coherent outcome to the prerequisite for 
 
 ### Egalitarian Proof of work
 
-Dosh is based on Egalitarian proof of work that acts as a voting system, Thus is Fairly distributed per vote without any special privileges and everyone is invited to join our network and start to mine and vote to secure all transactions on the Blockchain. No coin being premined , instamined or any additional imposed interest percentage on coin mining, truly honest Proof of work.
+Dosh is based on Egalitarian proof of work that acts as a voting system, Thus is Fairly distributed per vote without any special privileges and everyone is invited to join our network and start to mine and vote to secure all transactions on the Blockchain. No coin being _premined , _instamined or any additional imposed interest percentage on coin mining, truly honest Proof of work.
 
 
 ### Anonamyous Transactions
@@ -35,9 +35,9 @@ Most important aspect of our Objectives is to make All transactions on the Dosh 
 
 
 ### Secure & Fast Confirmation
-Dosh protocol is immune to hacks and the Data is protected through the implementation of CryptoNight Algorithm Technology which is impossible to crack. All transactions on the Blockchain are secured without the risk of loss of any Data and Transaction is fast and the conformation time of each Block is being mined averaged to 120 seconds (2 minutes). our road-map aims to minimize transaction time even to a few seconds with optimum security.
+Dosh protocol is immune to hacks and the Data is protected through the implementation of CryptoNight Algorithm Technology which is impossible to crack. All transactions on the Blockchain are secured without the risk of loss of any Data and Transaction is fast and the conformation time of each Block is being mined averaged to _120 seconds_ (_2 minutes_). our road-map aims to minimize transaction time even to a few seconds with optimum security.
 
-       Info
+       _Info_
 
     ∙ Date of Launch: 15/02/2018
     ∙ Total number of coins: 18.4 Million Dosh.
@@ -49,7 +49,7 @@ Dosh protocol is immune to hacks and the Data is protected through the implement
     ∙ Mining: GPU's and CPU.
 
 
-       Features                                      
+       _Features_                                      
 
     •	True anonymity and data protection.
     •	Untraceable distributed payments employing ring signature.
