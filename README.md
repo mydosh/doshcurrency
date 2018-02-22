@@ -118,8 +118,7 @@ egalitarian proof of work
   Everyone is welcome to join our network community.
 
 
-
- ## Freedom, independence, Fairness and open Uncensored world
+*Freedom, independence, Fairness and open Uncensored world
  
  <p align="center">
   <img src="dosh-icon.png" width="220" height="240">
