@@ -19,9 +19,9 @@ The advent of Dosh Cryptocurrency is a coherent outcome to the prerequisite for 
 
   Our vision is to create: An Equitable Decentralized online Cryptocurrency featured with fast and secure means of direct payment for individuals who believe in Freedom, independence, Fairness and open Uncensored world.
 
-  Join our growing Dosh community
+     *Join our growing Dosh community*
   
-#### *Principles
+### *Principles
 
 
 ### Egalitarian Proof of work
