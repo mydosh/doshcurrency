@@ -21,12 +21,12 @@ The advent of Dosh Cryptocurrency is a coherent outcome to the prerequisite for 
 
   Join our growing Dosh community
   
-   *Principles*
+#### *Principles
 
 
 ### Egalitarian Proof of work
 
-Dosh is based on Egalitarian proof of work that acts as a voting system, Thus is Fairly distributed per vote without any special privileges and everyone is invited to join our network and start to mine and vote to secure all transactions on the Blockchain. No coin being premined , instamined or any additional imposed interest percentage on coin mining.
+Dosh is based on Egalitarian proof of work that acts as a voting system, Thus is Fairly distributed per vote without any special privileges and everyone is invited to join our network and start to mine and vote to secure all transactions on the Blockchain. No coin being premined , instamined or any additional imposed interest percentage on coin mining, truly honest Proof of work.
 
 
 ### Anonamyous Transactions
@@ -99,6 +99,7 @@ egalitarian proof of work
 
 
 ### Dosh Denominations
+
     Name	  Base 10	   Amount
     
      bob	      10^-12	0.000000000001
