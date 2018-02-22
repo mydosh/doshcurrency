@@ -102,7 +102,7 @@ egalitarian proof of work
 
     Name	  Base 10	   Amount
     
-     bob	     10^-12	0.000000000001
+     bob 	      10^-12	0.000000000001
     Nanodosh	 10^-9	0.000000001
     Microdosh	 10^-6	0.000001
     Millidosh	 10^-3	0.001
