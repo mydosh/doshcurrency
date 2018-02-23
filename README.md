@@ -57,8 +57,8 @@ Dosh protocol is immune to hacks and the Data is protected through the implement
     •	Double spending protection.
     •	Adaptive Parameters. 
     •	Blockchain analysis resistant.
-    •	Only CPU-mining & ASIC-resistant.
-    •	POW mechanism as a voting system for users.
+    •	Only GPU &CPU-mining. Dosh mining is ASIC-resistant.
+    •	POW mechanism as a voting  system for users.
     •	Egalitarian proof of work
 
       
