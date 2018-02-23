@@ -19,7 +19,7 @@ The advent of Dosh Cryptocurrency is a coherent outcome to the prerequisite for 
 
   Our vision is to create: An Equitable Decentralized online Cryptocurrency featured with fast and secure means of direct payment for individuals who believe in Freedom, independence, Fairness and open Uncensored world.
 
-       Join our growing Dosh community
+                 *Join our growing Dosh community
   
 ### *Principles*
 
@@ -103,8 +103,7 @@ egalitarian proof of work
     Name	  Base 10	   Amount
     
      
-    
-    Bob        10^-12 0.000000000001
+    Bob**       **10^-12  **0.000000000001
     Nanodosh	 10^-9	0.000000001
     Microdosh	 10^-6	0.000001
     Millidosh	 10^-3	0.001
