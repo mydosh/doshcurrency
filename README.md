@@ -57,7 +57,7 @@ Dosh protocol is immune to hacks and the Data is protected through the implement
     •	Double spending protection.
     •	Adaptive Parameters. 
     •	Blockchain analysis resistant.
-    •	Only GPU &CPU-mining. Dosh mining is ASIC-resistant.
+    •	Only GPU & CPU-mining. Dosh mining is ASIC-resistant.
     •	POW mechanism as a voting  system for users.
     •	Egalitarian proof of work
 
@@ -103,7 +103,7 @@ egalitarian proof of work
     Name	  Base 10	   Amount
     
      
-    Bob**       **10^-12  **0.000000000001
+    |Bob**         **10^-12 **0.000000000001
     Nanodosh	 10^-9	0.000000001
     Microdosh	 10^-6	0.000001
     Millidosh	 10^-3	0.001
@@ -118,7 +118,7 @@ egalitarian proof of work
     megadosh	 10^6	1,000,000
 
 
-  Everyone is welcome to join our network community.
+     Everyone is welcome to join our network community.
 
 
 *Freedom, independence, Fairness and open Uncensored world
