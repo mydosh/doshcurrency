@@ -26,12 +26,12 @@ The advent of Dosh Cryptocurrency is a coherent outcome to the prerequisite for 
 
 ### Egalitarian Proof of work
 
-Dosh is based on Egalitarian proof of work that acts as a voting system, Thus is Fairly distributed per vote without any special privileges and everyone is invited to join our network and start to mine and vote to secure all transactions on the Blockchain. No coin being *premined , *instamined or any additional imposed interest percentage on coin mining, truly honest Proof of work.
+Dosh is based on Egalitarian proof of work that acts as a voting system, Thus is Fairly distributed per vote without any special privileges and everyone is invited to join our network and start to mine and vote to secure all transactions on the Blockchain. No coin being *premined , *instamined or any additional imposed interest percentage on coin mining (mining tax), A truly honest Proof of work.
 
 
 ### Anonamyous Transactions
 
-Most important aspect of our Objectives is to make All transactions on the Dosh Blockchain: anonymous and untraceable. CryptoNight scheme provides all participants with fully anonymous payment system through adopting Ring Signature Technology to render all payments executions indistinguishable and untraceable.
+Most important aspect of our Objectives is to make All transactions on the Dosh Blockchain: anonymous and untraceable. CryptoNight scheme provides all participants with fully anonymous payment system through adopting Ring Signature Technology to render all payments executions indistinguishable and untraceable, Thus accepting or spending Dosh doesn't have the risks of being tracked, blacklisted or even censored, It's totally a Fungible Coin unlike other coins using transparent Blockchain (including Bitcoin) where they have a trace and it could be blacklisted and make it worth less in value(discounted). The whole point of Dosh Cryptocurrency is to decouple money from controls and oversight for the good of individuals, organizations and even governments.
 
 
 ### Secure & Fast Confirmation
@@ -91,7 +91,7 @@ egalitarian proof of work
 
 ## Blockchain analysis resistance
 
-  The ability of tracing the money flow, identify the owners of the coins, determine wallet balances. The ability to make such analysis is due to the fact that all the transfers between addresses are transparent: every input in a transaction refers to a unique output. Moreover, users often re-use their old addresses, receiving and sending coins from them many times, which simplifies the analyst’s work. It happens unintentionally: if you have a public address (for example, for donations), you are sure to use this address in many inputs and transactions.
+  The ability of tracing the money flow, identify the owners of the coins, determine wallet balances. The ability to make such analysis is due to the fact that all the transfers between addresses are transparent: every input in a transaction refers to a unique output. Moreover, users often re-use their old addresses, receiving and sending coins from them many times, which simplifies the analyst’s work. It happens unintentionally: if you have a public address for example ( donations ), you are sure to use this address in many inputs and transactions.
 
 ## Ring signature
 
@@ -103,7 +103,7 @@ egalitarian proof of work
     Name	  Base 10	   Amount
     
      
-    |Bob**         **10^-12 **0.000000000001
+    |Bob**         **10^-12**0.000000000001
     Nanodosh	 10^-9	0.000000001
     Microdosh	 10^-6	0.000001
     Millidosh	 10^-3	0.001
