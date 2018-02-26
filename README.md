@@ -103,7 +103,7 @@ egalitarian proof of work
     Name	  Base 10	   Amount
     
      
-    |Bob**         **10^-12**0.000000000001
+    |Bob**         **10^-12*0.000000000001
     Nanodosh	 10^-9	0.000000001
     Microdosh	 10^-6	0.000001
     Millidosh	 10^-3	0.001
@@ -127,7 +127,7 @@ egalitarian proof of work
            
            *We Endeavour to keep Dosh Enonymous and Private, 
            Hence we choose not a fancy Web host or a flashy graphics
-           to introduce our project. 
+           to introduce our project on a centralized entity. 
            Dosh is a Cryptocurrency, no more or less.*
            
            
