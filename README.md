@@ -123,8 +123,16 @@ egalitarian proof of work
 
 *Freedom, independence, Fairness and open Uncensored world
  
+ 
+           
+           *We Endeavour to keep Dosh Enonymous and Private, 
+           Hence we choose not a fancy Web host or a flashy graphics
+           to introduce our project. 
+           Dosh is a Cryptocurrency, no more or less.*
+           
+           
  <p align="center">
   <img src="dosh-icon.png" width="220" height="240">
 </p>
 
- *DOSH is your private Currency*
+  *DOSH is your private Currency*
