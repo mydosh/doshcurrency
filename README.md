@@ -46,7 +46,7 @@ Dosh protocol is immune to hacks and the Data is protected through the implement
     ∙ Forked from: Bytecoin.
     ∙ Block time conformation: 120 Seconds (2 Minutes).
     ∙ Supported Platforms: Linux, Windows.
-    ∙ Mining: GPU's and CPU.
+    ∙ Mining: Started at 01/03/2018. GPU's and CPU only.
 
 
        *Features                                      
