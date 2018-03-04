@@ -111,8 +111,8 @@ The most important aspect of our objectives is to make all transactions on the D
  
            Everyone is welcome to join our community.
            
-           *We endeavour to keep Dosh anonymous, 
-           Hence we choose not to create a fancy website hosted on a centralized entity.
+           *We endeavour to keep Dosh anonymous & uncensored,
+           hence we choose not to create a fancy website hosted on a centralized entity.
            Dosh is a Cryptocurrency, no more no less.*
            
            
@@ -120,5 +120,5 @@ The most important aspect of our objectives is to make all transactions on the D
   <img src="dosh-icon.png" width="220" height="240">
 </p>
 
-  *DOSH is your private Currency*
+  *DOSH is your Currency*
 
