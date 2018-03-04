@@ -35,13 +35,13 @@ The most important aspect of our objectives is to make all transactions on the D
 
        *Info
 
-    ∙ Date of Announcement: 15th Feb 2018
-    ∙ Date of Launch: 1st March 2018
-    ∙ Total number of coins: 18.4 Million Dosh.
-    ∙ Consensus Mechanism: Proof-of-work.
-    ∙ Hashing Algorithm: CryptoNight.
-    ∙ Forked from: Bytecoin.
-    ∙ Block time conformation: 120 Seconds (2 Minutes).
+    •	Date of Announcement: 15th Feb 2018
+    •	Date of Launch: 1st March 2018
+    •	Total number of coins: 18.4 Million Dosh.
+    •	Consensus Mechanism: Proof-of-work.
+    •	Hashing Algorithm: CryptoNight.
+    •	Forked from: Bytecoin.
+    •	Block time conformation: 120 Seconds (2 Minutes).
     ∙ Supported Platforms: Linux, Windows.
     ∙ Mining Hardware: GPU and CPU only.
 
@@ -81,7 +81,7 @@ The most important aspect of our objectives is to make all transactions on the D
 
   Blockchain Analysis: the ability of tracing the money flow, identify the owners of the coins, determine wallet balances. The ability to make such analysis is due to the fact that all the transfers between addresses are transparent: every input in a transaction refers to a unique output. Moreover, users often re-use their old addresses, receiving and sending coins from them many times, which simplifies the analyst’s work. It happens unintentionally: if you have a public address for example ( donations ), you are sure to use this address in many inputs and transactions.
 
-## Ring signature
+## Ring signatures
 
   A ring signature is a type of digital signature that can be performed by any member of a group of users that each have keys. Therefore, a message signed with a ring signature is endorsed by someone in a particular group of people. One of the security properties of a ring signature is that it should be computationally infeasible to determine which of the group members' keys was used to produce the signature.
 
