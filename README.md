@@ -91,19 +91,19 @@ The most important aspect of our objectives is to make all transactions on the D
     Name          Base 10           Amount
     
      
-    Bob**         **10^-12*         0.000000000001
-    Nanodosh	    10^-9	            0.000000001
-    Microdosh	    10^-6	            0.000001
-    Millidosh	    10^-3	            0.001
-    Centidosh	    10^-2	            0.01
-    Decidosh	    10^-1	            0.1
+    Bob           10^-12            0.000000000001
+    Nanodosh      10^-9             0.000000001
+    Microdosh     10^-6             0.000001
+    Millidosh     10^-3             0.001
+    Centidosh     10^-2             0.01
+    Decidosh      10^-1             0.1
     
-    Dosh	        1
+    Dosh          1
      
-    Decadosh	    10^1	            10
-    Hectodosh	    10^2	            100
-    Kilodosh	    10^3	            1,000
-    Megadosh	    10^6	            1,000,000
+     Decadosh     10^1              10
+    Hectodosh     10^2              100
+    Kilodosh      10^3              1,000
+    Megadosh      10^6              1,000,000
 
 
      Everyone is welcome to join our network community.
