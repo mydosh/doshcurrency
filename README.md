@@ -9,15 +9,15 @@
 
 ### Open Source Decentralized Blockchain
 
-The advent of Dosh Cryptocurrency is a coherent outcome to the prerequisite for more decentralized untraceable digital cash for everyday use in money transactions. 
+The advent of Dosh is a coherent outcome to the prerequisite for more decentralized untraceable digital cash. 
 
-  Dosh Cryptocurrency enable Direct, Quick and easy way to exchange values on the bases of equally privileged Peer 2 Peer trading over the community Network, empowering participants to share and practice their own Freedom: privately and anonymously at wish.
+  Dosh enables a quick and easy way to transact privately on the bases of equally privileged peer-to-peer transactions over the network, empowering participants to share and practice their own Freedom: privately and anonymously at wish.
   	
-  The Underpinning of the new Cryptocurrency is an open source Blockchain software, based on proof of work mechanism that utilize CryptoNight algorithm Technology to provide secure platform across the multi Network Nodes and can achieve almost instantaneous and Anonymous transactions for all Participants efficiently by implementing Ring Signature Technology to obfuscate End signers from unwanted monitoring. 
+  The Underpinning of the new Cryptocurrency is an open source CryptoNote protocol, utilizing CryptoNight proof-of-work hashing algorithm to provide a secure network that provides private & anonymous transactions for all participants.
 
-  Privacy is a fundamental human right and our endeavour is to establish Dosh as a truly Decentralized Cryptocurrency and to implement Egalitarian proof of work voting system where every participant have equal voting rights on the Network.
+  Privacy is a fundamental human right and our endeavour is to establish Dosh as a truly Decentralized Cryptocurrency with an Egalitarian proof-of-work voting system where every participant has an equal vote within the network.
 
-  Our vision is to create: An Equitable Decentralized online Cryptocurrency featured with fast and secure means of direct payment for individuals who believe in Freedom, independence, Fairness and open Uncensored world.
+  Our vision is to create: An equitable decentralized Cryptocurrency featured with fast and secure means of direct payment for individuals who believe in freedom, independence and fairness.
 
                  *Join our growing Dosh community
   
@@ -26,72 +26,60 @@ The advent of Dosh Cryptocurrency is a coherent outcome to the prerequisite for 
 
 ### Egalitarian Proof of work
 
-Dosh is based on Egalitarian proof of work that acts as a voting system, Thus is Fairly distributed per vote without any special privileges and everyone is invited to join our network and start to mine and vote to secure all transactions on the Blockchain. No coin being *premined , *instamined or any additional imposed interest percentage on coin mining (mining tax), A truly honest Proof of work.
+Dosh is based on an Egalitarian proof-of-work that acts as a voting system, thus is fairly distributed per vote without any special privileges. Everyone is invited to join our network and start mining to secure all transactions on the Blockchain. No coin being *premined, *instamined or any additional imposed interest percentage on coin mining (mining tax), a truly honest proof-of-work.
 
 
-### Anonamyous Transactions
+### Anonymous Transactions
 
-Most important aspect of our Objectives is to make All transactions on the Dosh Blockchain: anonymous and untraceable. CryptoNight scheme provides all participants with fully anonymous payment system through adopting Ring Signature Technology to render all payments executions indistinguishable and untraceable, Thus accepting or spending Dosh doesn't have the risks of being tracked, blacklisted or even censored, It's totally a Fungible Coin unlike other coins using transparent Blockchain (including Bitcoin) where they have a trace and it could be blacklisted and make it worth less in value(discounted). The whole point of Dosh Cryptocurrency is to decouple money from controls and oversight for the good of individuals, organizations and even governments.
-
-
-### Secure & Fast Confirmation
-Dosh protocol is immune to hacks and the Data is protected through the implementation of CryptoNight Algorithm Technology which is impossible to crack. All transactions on the Blockchain are secured without the risk of loss of any Data and Transaction is fast and the conformation time of each Block is being mined averaged to *120 seconds (2 minutes)*. our road-map aims to minimize transaction time even to a few seconds with optimum security.
+The most important aspect of our objectives is to make all transactions on the Dosh network anonymous and untraceable. The CryptoNote protocol provides all participants with a fully anonymous payment system through adopting Ring Signatures to render all payments indistinguishable and untraceable, thus accepting or spending Dosh doesn't have the risks of being tracked, blacklisted or even censored. Dosh is fungible making all values interchangeable, allowing coins to be used without a trace or link. The whole point of Dosh is to decouple money from being centrally controlled for the good of individuals, organizations and even governments.
 
        *Info
 
-    ∙ Date of Launch: 15/02/2018
+    ∙ Date of Announcement: 15th Feb 2018
+    ∙ Date of Launch: 1st March 2018
     ∙ Total number of coins: 18.4 Million Dosh.
-    ∙ Consensus Mechanism: Proof - of - work.
+    ∙ Consensus Mechanism: Proof-of-work.
     ∙ Hashing Algorithm: CryptoNight.
     ∙ Forked from: Bytecoin.
     ∙ Block time conformation: 120 Seconds (2 Minutes).
     ∙ Supported Platforms: Linux, Windows.
-    ∙ Mining: Started at 01/03/2018. GPU's and CPU only.
+    ∙ Mining Hardware: GPU and CPU only.
 
 
        *Features                                      
 
     •	True anonymity and data protection.
-    •	Untraceable distributed payments employing ring signature.
+    •	Untraceable distributed payments employing ring signatures.
     •	Unlinkable transactions with random data transfer by the sender.
     •	Double spending protection.
     •	Adaptive Parameters. 
     •	Blockchain analysis resistant.
-    •	Only GPU & CPU-mining. Dosh mining is ASIC-resistant.
-    •	POW mechanism as a voting  system for users.
-    •	Egalitarian proof of work
+    •	Egalitarian proof-of-work, Dosh is ASIC resistant
 
       
 
 
 
-## Dosh Network
-
-  The Transactions are modeled for PEER to PEER Global distributed network payment system to allow every individual freely send and receive Dosh cryptocurrency directly and settle all transactions without the need of a third party involvement or any other financial coordination. 
-
-## Mining
-
-  Anyone can mine Dosh using consumer CPU or GPU. Dosh Cryptcurrency mining is simple and based on CryptoNight Alogorithm Thus it's ASIC resistant and from your PC you can start Dosh mining straight away.  
+## CryptoNight proof-of-work
+  
+  Anyone can mine Dosh using a consumer graphics processing unit (GPU) and central processing unit (CPU). CryptoNight is a proof-of-work algorithm that creates a system resistant to both application-specific integrated circuits (ASICs) and fast memory-on-chip devices. This is designed to create a more uniform distribution of coins through the currency's life. User are not limited on the type of hardware they can use to mine Dosh. Being ASIC resistant means that Dosh gains consensus through a more decentralized and distributed network of hashing power.
 
 ## Open source
 
-  Dosh CryptoCurrency is built on an Open source Software. This would permit everyone to participate in future network development. check our Github link and join our community. 
+  Dosh is open source, meaning anyone is welcome to review and contribute to the project. Everyone is welcome to participate in the future development of Dosh. Check out our Github link and come join the community. 
 
-## What is cryptonote?
+## What is CryptoNote?
  
-  CryptoNote is an application layer protocol that powers DOSH decentralized privacy oriented digital currency.
- Transactions executed by CryptoNote Algorithm cannot be followed through the blockchain in a way that reveals who sent or received the coins. The approximate amount of a transaction can be known, but the origin, destination, or actual amount cannot be learned. The only information available is that the actual amount was lower than the displayed amount. The only people with access to the whole set of data about a transaction are the sender or receiver of the transaction and the person who possesses one or both private keys.
+  CryptoNote is an application layer protocol that powers Dosh, a decentralized privacy oriented digital currency.
+ Transactions executed by CryptoNote cannot be followed through the blockchain in a way that reveals who sent or received the coins. The approximate amount of a transaction can be known, but the origin, destination, or actual amount cannot be learned. The only information available is that the actual amount was lower than the displayed amount. The only people with access to the whole set of data about a transaction are the sender or receiver of the transaction and the person who possesses one or both private keys.
 
   Two of the main features of CryptoNote are ring signatures that mask sender identities by mixing and one-time keys that make transactions unlinkable. Their combined effect gives a high degree of anonymity without any extra effort on the part of the user.
-egalitarian proof of work
-
-## Proof of work
-
-  DOSH implement CryptoNote proof of work mechanism which is a voting system where users can vote for the right order of transactions, new features in the protocol and honest money supply distribution. It is important that during the voting process every participant have equal voting rights. CryptoNote coins use the CryptoNight algorithm to run DOSH blockchain and secure it's network. CryptoNight is a proof-of-work algorithm that mixes graphics processing unit (GPU) and central processing unit (CPU) mining to create a system resistant to both application-specific integrated circuits (ASICs) and fast memory-on-chip devices. This is designed to create a more uniform distribution of coins through the currency's life.
 
 ## Blockchain analysis resistance
 
-  The ability of tracing the money flow, identify the owners of the coins, determine wallet balances. The ability to make such analysis is due to the fact that all the transfers between addresses are transparent: every input in a transaction refers to a unique output. Moreover, users often re-use their old addresses, receiving and sending coins from them many times, which simplifies the analyst’s work. It happens unintentionally: if you have a public address for example ( donations ), you are sure to use this address in many inputs and transactions.
+  Dosh prevents any type of blockchain analysis on the network. Users are free to send and receive Dosh whilst maintaining their privacy.
+
+  Blockchain Analysis: the ability of tracing the money flow, identify the owners of the coins, determine wallet balances. The ability to make such analysis is due to the fact that all the transfers between addresses are transparent: every input in a transaction refers to a unique output. Moreover, users often re-use their old addresses, receiving and sending coins from them many times, which simplifies the analyst’s work. It happens unintentionally: if you have a public address for example ( donations ), you are sure to use this address in many inputs and transactions.
 
 ## Ring signature
 
@@ -121,14 +109,13 @@ egalitarian proof of work
      Everyone is welcome to join our network community.
 
 
-*Freedom, independence, Fairness and open Uncensored world
+*Freedom, Independence and Fairness.
  
  
            
-           *We Endeavour to keep Dosh Enonymous and Private, 
-           Hence we choose not a fancy Web host or a flashy graphics
-           to introduce our project on a centralized entity. 
-           Dosh is a Cryptocurrency, no more or less.*
+           *We endeavour to keep Dosh anonymous, 
+           Hence we choose not to create a fancy website hosted on a centralized entity.
+           Dosh is a Cryptocurrency, no more no less.*
            
            
  <p align="center">
@@ -136,3 +123,4 @@ egalitarian proof of work
 </p>
 
   *DOSH is your private Currency*
+
