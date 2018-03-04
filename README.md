@@ -92,6 +92,7 @@ The most important aspect of our objectives is to make all transactions on the D
     
      
     Bob           10^-12            0.000000000001
+    
     Nanodosh      10^-9             0.000000001
     Microdosh     10^-6             0.000001
     Millidosh     10^-3             0.001
@@ -100,18 +101,17 @@ The most important aspect of our objectives is to make all transactions on the D
     
     Dosh          1
      
-     Decadosh     10^1              10
+    Decadosh      10^1              10
     Hectodosh     10^2              100
     Kilodosh      10^3              1,000
     Megadosh      10^6              1,000,000
 
 
-     Everyone is welcome to join our network community.
 
-
-*Freedom, Independence and Fairness.
+### Freedom, Independence and Fairness.
  
  
+           Everyone is welcome to join our community.
            
            *We endeavour to keep Dosh anonymous, 
            Hence we choose not to create a fancy website hosted on a centralized entity.
