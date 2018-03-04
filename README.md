@@ -22,7 +22,7 @@ The advent of Dosh is a coherent outcome to the prerequisite for more decentrali
                  *Join our growing Dosh community
   
 
-### Egalitarian
+### Egalitarian Votes
 
 Dosh is based on an Egalitarian proof-of-work that acts as a voting system, thus is fairly distributed per vote without any special privileges. Everyone is invited to join our network and start mining to secure all transactions on the Blockchain. No coin being *premined, *instamined or any additional imposed interest percentage on coin mining (mining tax), a truly honest proof-of-work.
 
