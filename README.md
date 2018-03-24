@@ -120,5 +120,13 @@ The most important aspect of our objectives is to make all transactions on the D
   <img src="dosh-icon.png" width="220" height="240">
 </p>
 
-  *DOSH is your Currency*
+  Contact: mydosh@protonmail.com
+  
+  Telegram: t.me/doshcurrency
+  
+  Bitcoin talk: https://bitcointalk.org/index.php?topic=2958573.0
+  
+  Twitter : @doshprivacy
+  
+  # DOSH is your Currency
 
