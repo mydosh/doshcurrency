@@ -128,5 +128,5 @@ The most important aspect of our objectives is to make all transactions on the D
   
   Twitter : @doshprivacy
   
-  # DOSH is your Currency
+  ## DOSH is your Currency
 
