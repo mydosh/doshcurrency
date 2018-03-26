@@ -39,7 +39,7 @@ The most important aspect of our objectives is to make all transactions on the D
     •	Consensus Mechanism: Proof-of-work.
     •	Hashing Algorithm: CryptoNight.
     •	Forked from: Bytecoin.
-    •	Block time conformation: 120 Seconds (2 Minutes).
+    •	Block time confirmation: 120 Seconds (2 Minutes).
     •	Supported Platforms: Linux, Windows.
     •	Mining Hardware: GPU and CPU only.
 
@@ -119,8 +119,6 @@ The most important aspect of our objectives is to make all transactions on the D
  <p align="center">
   <img src="dosh-icon.png" width="220" height="240">
 </p>
-
-  Contact: mydosh@protonmail.com
   
   Telegram: t.me/doshcurrency
   
