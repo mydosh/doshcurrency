@@ -119,12 +119,13 @@ The most important aspect of our objectives is to make all transactions on the D
  <p align="center">
   <img src="dosh-icon.png" width="220" height="240">
 </p>
+  Website: getdosh.org
   
   Telegram: t.me/doshcurrency
   
   Bitcoin talk: https://bitcointalk.org/index.php?topic=2958573.0
   
-  Twitter : @doshprivacy
+  Twitter : @doshcurreny
   
   ## DOSH is your Currency
 
